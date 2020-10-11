@@ -6,11 +6,14 @@ body{
   width:960px;
   margin-left:auto;
   margin-right:auto;
-  border-width:1px;
+  border-width:2px;
   border-style:solid;
   border-color:gray;
   border-radius:5px;
+  padding-left:20px;
+  padding-right:20px;
    }
+
    p{
     color:green;
     }
